@@ -16,6 +16,14 @@
 
 ### Wikipedia Rabbit Hole
 
-You groups has assigned a topic.
+- Join a group through GitHub Classrooms
+- Investigate and discuss the topic follow the basic rules:
+   - Take off-set in the Wikipeadia article
+   - Follow links you find on Wikipedia
+   - Or links your find in links you found on Wikipedia
+- Keep a trace of the travel you do  by creating issues
+- Record you findings in the `README.md` file in the folder of your topic:
+   - How is your topic realted to _"agile"?_
+   - What are the key concepts of you topic?
+   - How is the topic realted to _"software development?"_
 
-Your task is to Kick off an investigation strating from the Wikipedia entry for your topic.
