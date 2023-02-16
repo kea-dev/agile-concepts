@@ -1,12 +1,12 @@
 # Agile Concepts
  
 ### Groups 
-1. **Kanban**
-2. **Scrum**
-3. **SAFe**
-4. **DevOps**
-5. **Continuous Delivery**
-6. **Lean manufacturing** _( a.k.a Toyota Production System)_
+1. **[Kanban](https://en.wikipedia.org/wiki/Kanban)**
+2. **[Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development))**
+3. **[SAFe](https://en.wikipedia.org/wiki/Scaled_agile_framework)**
+4. **[DevOps](https://en.wikipedia.org/wiki/DevOps)**
+5. **[Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery)**
+6. **[Lean](https://en.wikipedia.org/wiki/Lean_software_development)**
 
 --- 
 
@@ -14,8 +14,7 @@
 
 # Exercise 1
 
-### Create a GitHub Project for your group
-
+### Wikipedia Rabbit Hole
 
 <img width="100" align="right" alt="image" src="[https://user-images.githubusercontent.com/155492/219313640-1328aefb-7695-41d2-bbef-5c5ffe6ab079.png](https://user-images.githubusercontent.com/155492/219378934-dfd3a9df-311a-42f7-bd11-b0289efa8fad.png)">
 
